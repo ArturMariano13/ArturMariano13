@@ -41,9 +41,9 @@ Sou um entusiasta de tecnologia e estudante de **Ciência da Computação** no I
 
 ## 📚 Projetos em Destaque
 
-- [**Análise de Dados com Pandas**](https://github.com/ArturMarianoSilva/analise-dados) - Processamento e visualização de dados.
-- [**Detecção de Afíde com YOLOv7**](https://github.com/ArturMarianoSilva/deteccao-afide) - Implementação de IA para identificação de insetos.
-- [**Sistema de Autenticação com React e JWT**](https://github.com/ArturMarianoSilva/auth-react-jwt) - Login seguro com token JWT.
+- [**Estágio Envenharia de Dados com AWS CompassUOL**](https://github.com/ArturMariano13/data-analytics-compass-pb) - Estudos e projetos realizados no programa de estágio da CompassUOL.
+- [**Estudo de Algoritmos de Ordenação**](https://github.com/ArturMariano13/sbornian_ordination_algorithms) - Projeto que visa ordenar uma imensa quantidade de dados sem utilizar estruturas de comparação (Radix e CountingSort).
+- [**Batalha Naval em MIPS Assembly**](https://github.com/ArturMariano13/battleship-game) - Trabalho desenvolvido na faculdade.
 
 ---
 
