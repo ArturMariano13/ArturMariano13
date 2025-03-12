@@ -33,9 +33,9 @@ Sou um entusiasta de tecnologia e estudante de **Ciência da Computação** no I
 
 ## 🎯 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArturMarianoSilva&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArturMariano13&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturMarianoSilva&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturMariano13&layout=compact&theme=radical)
 
 ---
 
