@@ -1,6 +1,6 @@
 # Olá, eu sou Artur Mariano da Silva! 👋
 
-Sou um entusiasta de tecnologia e estudante de **Ciência da Computação** no Instituto Federal Sul-Rio-Grandense (IFSUL). Em 2024, fui estagiário em um programa bolsas na **CompassUOL** na área de Engenharia de Dados, onde realizei diversos cursos e solucionei desafios, aprimorando minhas habilidades em **Python, SQL, Big Data, Spark, AWS**.
+Sou um Programador Trainee na área de dados na **CompassUOL** e estudante de **Ciência da Computação** no Instituto Federal Sul-Rio-Grandense (IFSUL). Em 2024, fui bolsista em um programa bolsas na **CompassUOL** na área de Engenharia de Dados, onde realizei diversos cursos e solucionei desafios, aprimorando minhas habilidades em **Python, SQL, Big Data, Spark, AWS**. Também fui bolsista de iniciação científica, atuando com Visão Computacional e Raspberry Pi em projetos com Python — com um artigo publicado no SIBGRAPI, evento referência na área. Atualmente, colaboro como voluntário em um projeto de pesquisa focado na **análise de dados de mobilidade**, desenvolvendo soluções orientadas por dados e extraindo insights relevantes para aplicações práticas.
 
 ---
 
@@ -13,9 +13,11 @@ Sou um entusiasta de tecnologia e estudante de **Ciência da Computação** no I
 
 ---
 
-## 🎖️ Conquistas
+## 🎖️ Conquistas e Certificações
 
-- **AWS Cloud Pratictioner** (nov/2024)
+- **Certificação AWS Cloud Pratictioner** (nov/2024)
+- **Programa de Bolsas CompassUOL AWS Data Engineering** (jun/2024 - nov/2024)
+- [**Curso SQL para Análise de Dados: Do básico ao avançado**](https://github.com/ArturMariano13/data-analytics-compass-pb/blob/main/Sprint%202/certificados/SQL_Udemy.pdf)
 - [**Artigo publicado no SIBGRAPI 2024**](https://sol.sbc.org.br/index.php/sibgrapi_estendido/article/view/31668/31471)
 - **Medalha de Honra ao Mérito Escolar** (aluno com melhores notas durante todo o Ensino Médio)
 
@@ -41,9 +43,9 @@ Sou um entusiasta de tecnologia e estudante de **Ciência da Computação** no I
 
 ## 📚 Projetos em Destaque
 
-- [**Estágio Envenharia de Dados com AWS CompassUOL**](https://github.com/ArturMariano13/data-analytics-compass-pb) - Estudos e projetos realizados no programa de estágio da CompassUOL.
+- [**Estágio Engenharia de Dados com AWS CompassUOL**](https://github.com/ArturMariano13/data-analytics-compass-pb) - Estudos e projetos realizados no programa de estágio da CompassUOL.
 - [**Estudo de Algoritmos de Ordenação**](https://github.com/ArturMariano13/sbornian_ordination_algorithms) - Projeto que visa ordenar uma imensa quantidade de dados sem utilizar estruturas de comparação (Radix e CountingSort).
-- [**Batalha Naval em MIPS Assembly**](https://github.com/ArturMariano13/battleship-game) - Trabalho desenvolvido na faculdade.
+- [**Servidor de Arquivos Java**](https://github.com/ArturMariano13/FileServerJava) - Trabalho desenvolvido na faculdade na disciplina de Sistemas Distribuídos I.
 
 ---
 
